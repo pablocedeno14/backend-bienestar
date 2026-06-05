@@ -105,10 +105,10 @@ El endpoint fue validado mediante Postman verificando la correcta conexión con 
 
 ## Evidencias de funcionamiento
 
-![Evidencia 1](evidencias/postman-consulta.jpeg)
+(evidencias/postman-consulta.jpeg)
 
 
-![Evidencia 2](evidencias/postman-respuesta.png)
+(evidencias/postman-respuesta.png)
 
 ## Integrantes
 
